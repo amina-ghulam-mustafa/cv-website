@@ -3,7 +3,7 @@
 This repository contains my professional resume hosted as a static website using GitHub Pages.
 
 ## 🌐 View CV Live:
-👉 [Click Here to View My CV](https://github.com/amina-ghulam-mustafa//cv-website)
+👉 [Click Here to View My CV]("https://amina-ghulam-mustafa.github.io/cv-website/")
 
 ## 📄 Included Sections:
 - About Me
